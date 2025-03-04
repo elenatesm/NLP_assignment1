@@ -8,5 +8,3 @@ Useful links:
 - [Norvig's solution](https://norvig.com/spell-correct.html)
 - [Norvig's dataset](https://norvig.com/big.txt)
 - [Ngrams data](https://www.ngrams.info/download_coca.asp)
-
-## To clone this repository: https://github.com/elenatesm/NLP_assignment1
